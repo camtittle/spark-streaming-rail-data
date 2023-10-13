@@ -1,0 +1,5 @@
+boto3==1.28.61
+pyspark==3.4.1
+python-dotenv==1.0.0
+xmltodict==0.13.0
+stomp.py==8.1.0
